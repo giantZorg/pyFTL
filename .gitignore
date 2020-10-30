@@ -1,0 +1,18 @@
+##
+# Ignore project folders for spyder and visual studio
+.spyproject
+.vs
+
+##
+# Ignore data folder and ressources which should not become public (copyright infringements)
+data
+resources
+
+##
+# Testimage for debugging purposes
+test.png
+
+##
+# Ignore all precompiled python files
+*.pyc
+
